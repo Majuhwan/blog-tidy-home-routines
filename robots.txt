@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tidy-home-routines.howlane.com/sitemap.xml
